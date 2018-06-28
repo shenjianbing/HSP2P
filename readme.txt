@@ -25,7 +25,12 @@ How to use
 
    demo_fusion.m
 
-
+More Refs:
 ============================================================================================
-X. Dong, J. Shen, and L. Shao, Hierarchical Superpixel-to-Pixel Dense Matching, IEEE Trans. on Circuts and Systems for Video Technology, 
+X. Dong, J. Shen, and L. Shao, Hierarchical Superpixel-to-Pixel Dense Matching, 
+IEEE Trans. on Circuts and Systems for Video Technology, 
 27(12):2518-2526, 2017 
+
+X. Qin, J. Shen, X. Mao, X. Li, Y. Jia, 
+Robust match fusion using optimization, 
+IEEE Trans. on Cybernetics, 45(8):1549-1560, 2015 
